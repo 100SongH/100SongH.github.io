@@ -62,10 +62,7 @@ wakeTime.onclick = function() {
 
 
 <!-- 물마시기 script -->
-var 500ml=document.getElementById('img1');
-500ml.onclick= function(e) {
-   
-}
+
 
 
 <!-- prev, next버튼 기능구현 -->
